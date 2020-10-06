@@ -1,7 +1,7 @@
-# Awesome Project Build with TypeORM
+# Share Recipes
 
 Steps to run this project:
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+0. Clone the repo
+1. Run `yarn install` command
+2. Run `yarn dev` command
